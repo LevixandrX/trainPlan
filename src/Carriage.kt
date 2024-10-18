@@ -1,0 +1,1 @@
+class Carriage(val capacity: Int, var passengers: Int = 0)
